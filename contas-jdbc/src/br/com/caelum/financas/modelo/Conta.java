@@ -1,5 +1,11 @@
 package br.com.caelum.financas.modelo;
 
+/**
+ * Classe que representa uma conta bancaria
+ * 
+ * @author nesomar
+ *
+ */
 public class Conta {
 
 	private Integer id;
